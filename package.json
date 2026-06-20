@@ -1,6 +1,6 @@
 {
   "name": "@onlist/ai-sdk-provider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Onlist provider for the Vercel AI SDK. Route requests across 40+ AI providers with competitive pricing.",
   "license": "MIT",
   "author": "Onlist <dev@onlist.io>",
